@@ -1,0 +1,5 @@
+# Ignore the entire folder
+img_align_celeba/
+
+# Ignore all .pkl files
+*.pkl
